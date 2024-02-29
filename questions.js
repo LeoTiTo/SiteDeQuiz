@@ -1,0 +1,61 @@
+let questions = [
+    {
+        numb: 1,
+        question: "What does HTML stand for ?",
+        answer: " C. Hyper Text Markup Language",
+        options: [
+            "A. Hyper Type Multi Language",
+            "B. Hyper Text Multiple Language",
+            "C. Hyper Text Markup Language",
+            "D. Home Text Multi Language"
+        ]
+    },
+
+    {
+        numb: 2,
+        question: "What does CSS stand for ?",
+        answer: " A. Cascading Style Sheet",
+        options: [
+            "A. Cascading Style Sheet",
+            "B. Computer Style Set",
+            "C. Colorful Style Sheets",
+            "D. Coding Style Sheets"
+        ]
+    },
+
+    {
+        numb: 3,
+        question: "What does PHP stand for ?",
+        answer: " A. Hypertext Preprocessor",
+        options: [
+            "A. Hypertext Preprocessor",
+            "B. Personal Home Page",
+            "C. Server Side Processing",
+            "D. Portable Hypertext"
+        ]
+    },
+
+    {
+        numb: 4,
+        question: "What does SQL stand for ?",
+        answer: " D. Structured Query Language",
+        options: [
+            "A. Stored Procedures and SQL",
+            "B. Data Query Language",
+            "C. Standard Query Language",
+            "D. Structured Query Language"
+        ]
+    },
+
+    {
+        numb: 5,
+        question: "What does XML stand for ?",
+        answer: " D. Extensible Markup Language",
+        options: [
+            "A. Excellent Markup Language",
+            "B. Explore Multiple Language",
+            "C. Extra Markup Language",
+            "D. Extensible Markup Language"
+        ]
+    },
+]
